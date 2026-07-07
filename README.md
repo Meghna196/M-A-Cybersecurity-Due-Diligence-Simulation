@@ -6,7 +6,7 @@
 
 Mergers and acquisitions introduce significant cybersecurity risk. Acquiring organizations inherit the target's vulnerabilities, compliance gaps, technical debt, and potential regulatory exposure. Security teams are increasingly expected to contribute formal assessments before a deal closes, yet few portfolios demonstrate this capability directly.
 
-This project simulates the full due diligence lifecycle for a fictional mid-size SaaS company ("AcquiCo") being evaluated for acquisition. I scoped the engagement, gathered simulated evidence, mapped findings to established frameworks, quantified risk, and delivered outputs that mirror what a security or GRC team would hand to deal leadership.
+This project simulates the full due diligence lifecycle for a fictional mid-size SaaS company ("NovaPay Technologies") being evaluated for acquisition. I scoped the engagement, gathered simulated evidence, mapped findings to established frameworks, quantified risk, and delivered outputs that mirror what a security or GRC team would hand to deal leadership.
 
 The goal is to demonstrate that I can translate raw technical and policy findings into structured, business-relevant risk intelligence. This matters for roles in security advisory, GRC, M&A security consulting, and enterprise risk management.
 
